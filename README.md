@@ -1,3 +1,5 @@
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rumyantseva/puzzles/issues)
+
 # puzzles
 A list of platforms to improve your skills with the Go programming language.
 
